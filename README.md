@@ -39,7 +39,7 @@ GameDev
 <p>
 🌐 Let's Connect!
 <p align="center">
-<a href="www.linkedin.com/in/aldrin-aby-5b61ba255/" target="_blank">
+<a href="https://www.linkedin.com/in/aldrin-aby-5b61ba255" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
