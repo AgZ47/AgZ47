@@ -39,7 +39,6 @@ Cloud
 </p>
 AI/ML
 <p align="center">
-<img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
 <img src="https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO">
